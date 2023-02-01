@@ -1,0 +1,14 @@
+{
+  "hash": "de97a8011f694172cd7fc9d755834ca5",
+  "result": {
+    "markdown": "---\ntitle: \"Hilfe\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-02-01\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
