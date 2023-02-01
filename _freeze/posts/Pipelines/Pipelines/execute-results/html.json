@@ -1,0 +1,14 @@
+{
+  "hash": "3fe687a1ea2e71667d9212037370d63b",
+  "result": {
+    "markdown": "---\ntitle: \"Pipelines\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-02-01\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\ngg\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
