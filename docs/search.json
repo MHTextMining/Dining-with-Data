@@ -67,7 +67,7 @@
     "href": "Hilfe.html",
     "title": "Hilfe",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "def_model_glm <- function() {\nlogistic_reg(penalty = tune(), mixture = 1) %>% set_mode(“classification”) %>% set_engine(“glmnet”)\n}\n#def_model_boost <- function() {\n\ndoParallel::registerDoParallel()\n\n\nboost_tree(mtry = tune(), min_n = tune(), trees = tune(), # learn_rate = tune(), tree_depth = tune(), # loss_reduction = tune()) %>% # set_engine(“xgboost”, nthreads = 12) %>% #set_mode(“classification”)\n#}"
   },
   {
     "objectID": "posts/Hilfe/Hilfe.html",
