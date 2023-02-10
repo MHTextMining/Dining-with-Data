@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+
+/data/word_embeddings.rds
+/data/model.bin
